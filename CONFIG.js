@@ -1,10 +1,10 @@
 const CONFIGDATA = {
-  titleHeader: "Tha thứ cho anh nhá!",
+  titleHeader: "Hog cóa buồn nữa nha!",
   descriptionHeader:
-    "Nếu bé thoát ra và không trả lời thì có nghĩa là bé đã ĐỒNG Ý rồi đấy ^^",
-  buttonYes: "Đồng Ý",
-  buttonNo: "Không! Còn lâu nhé.",
-  titleModar: "Cảm ơn em vì đồng ý",
+    "Nếu bé Di thoát ra thì có nghĩa là bé Di đã hết buồn rồi nhó ^^",
+  buttonYes: "Gòi gòi, hết bùn gòi",
+  buttonNo: "Hog! Bùn quài luôn",
+  titleModar: "Nhớ là đồng ý hết bùn gòi đóa",
   descriptionModar:
-    'Anh biết là em sẽ hog giận anh nữa mà ^^',
+    'Hihi. Tui biết là pà sẽ hog bùn nữa mà. Cố lên nè, tui luôn ở bên Di nè ^^',
 };
